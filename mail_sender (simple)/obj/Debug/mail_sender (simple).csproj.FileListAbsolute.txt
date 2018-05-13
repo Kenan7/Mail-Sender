@@ -1,0 +1,73 @@
+c:\users\kenan\source\repos\mail_sender (simple)\mail_sender (simple)\bin\Debug\mail_sender (simple).exe.config
+c:\users\kenan\source\repos\mail_sender (simple)\mail_sender (simple)\bin\Debug\mail_sender (simple).exe
+c:\users\kenan\source\repos\mail_sender (simple)\mail_sender (simple)\bin\Debug\mail_sender (simple).pdb
+c:\users\kenan\source\repos\mail_sender (simple)\mail_sender (simple)\bin\Debug\Bunifu_UI_v1.5.3.dll
+c:\users\kenan\source\repos\mail_sender (simple)\mail_sender (simple)\bin\Debug\SQLite.Designer.dll
+c:\users\kenan\source\repos\mail_sender (simple)\mail_sender (simple)\bin\Debug\System.Data.SQLite.dll
+c:\users\kenan\source\repos\mail_sender (simple)\mail_sender (simple)\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+c:\users\kenan\source\repos\mail_sender (simple)\mail_sender (simple)\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+c:\users\kenan\source\repos\mail_sender (simple)\mail_sender (simple)\bin\Debug\EnvDTE.dll
+c:\users\kenan\source\repos\mail_sender (simple)\mail_sender (simple)\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+c:\users\kenan\source\repos\mail_sender (simple)\mail_sender (simple)\bin\Debug\stdole.dll
+c:\users\kenan\source\repos\mail_sender (simple)\mail_sender (simple)\bin\Debug\SQLite.Designer.pdb
+c:\users\kenan\source\repos\mail_sender (simple)\mail_sender (simple)\bin\Debug\System.Data.SQLite.pdb
+c:\users\kenan\source\repos\mail_sender (simple)\mail_sender (simple)\bin\Debug\System.Data.SQLite.dll.config
+c:\users\kenan\source\repos\mail_sender (simple)\mail_sender (simple)\obj\Debug\mail_sender (simple).csprojResolveAssemblyReference.cache
+c:\users\kenan\source\repos\mail_sender (simple)\mail_sender (simple)\obj\Debug\mail_sender__simple_.Form1.resources
+c:\users\kenan\source\repos\mail_sender (simple)\mail_sender (simple)\obj\Debug\mail_sender__simple_.Properties.Resources.resources
+c:\users\kenan\source\repos\mail_sender (simple)\mail_sender (simple)\obj\Debug\mail_sender (simple).csproj.GenerateResource.cache
+c:\users\kenan\source\repos\mail_sender (simple)\mail_sender (simple)\obj\Debug\mail_sender (simple).csproj.CoreCompileInputs.cache
+c:\users\kenan\source\repos\mail_sender (simple)\mail_sender (simple)\obj\Debug\mail_sender (simple).csproj.CopyComplete
+c:\users\kenan\source\repos\mail_sender (simple)\mail_sender (simple)\obj\Debug\mail_sender (simple).exe
+c:\users\kenan\source\repos\mail_sender (simple)\mail_sender (simple)\obj\Debug\mail_sender (simple).pdb
+C:\Users\kenan\source\repos\mail_sender (simple)\mail_sender (simple)\obj\Debug\mail_sender__simple_.acilis.resources
+C:\Users\kenan\source\repos\mail_sender (simple)\mail_sender (simple)\obj\Debug\mail_sender__simple_.giris.resources
+C:\Users\kenan\source\repos\mail_sender (simple)\mail_sender (simple)\obj\Debug\mail_sender__simple_.moodle.resources
+C:\Users\kenan\Desktop\mail_sender (simple) - lastone\mail_sender (simple)\bin\Debug\mail_sender (simple).exe.config
+C:\Users\kenan\Desktop\mail_sender (simple) - lastone\mail_sender (simple)\bin\Debug\mail_sender (simple).exe
+C:\Users\kenan\Desktop\mail_sender (simple) - lastone\mail_sender (simple)\bin\Debug\mail_sender (simple).pdb
+C:\Users\kenan\Desktop\mail_sender (simple) - lastone\mail_sender (simple)\bin\Debug\SQLite.Designer.dll
+C:\Users\kenan\Desktop\mail_sender (simple) - lastone\mail_sender (simple)\bin\Debug\System.Data.SQLite.dll
+C:\Users\kenan\Desktop\mail_sender (simple) - lastone\mail_sender (simple)\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\kenan\Desktop\mail_sender (simple) - lastone\mail_sender (simple)\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\kenan\Desktop\mail_sender (simple) - lastone\mail_sender (simple)\bin\Debug\EnvDTE.dll
+C:\Users\kenan\Desktop\mail_sender (simple) - lastone\mail_sender (simple)\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\kenan\Desktop\mail_sender (simple) - lastone\mail_sender (simple)\bin\Debug\stdole.dll
+C:\Users\kenan\Desktop\mail_sender (simple) - lastone\mail_sender (simple)\bin\Debug\SQLite.Designer.pdb
+C:\Users\kenan\Desktop\mail_sender (simple) - lastone\mail_sender (simple)\bin\Debug\System.Data.SQLite.pdb
+C:\Users\kenan\Desktop\mail_sender (simple) - lastone\mail_sender (simple)\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\kenan\Desktop\mail_sender (simple) - lastone\mail_sender (simple)\obj\Debug\mail_sender (simple).csprojResolveAssemblyReference.cache
+C:\Users\kenan\Desktop\mail_sender (simple) - lastone\mail_sender (simple)\obj\Debug\mail_sender__simple_.acilis.resources
+C:\Users\kenan\Desktop\mail_sender (simple) - lastone\mail_sender (simple)\obj\Debug\mail_sender__simple_.Form1.resources
+C:\Users\kenan\Desktop\mail_sender (simple) - lastone\mail_sender (simple)\obj\Debug\mail_sender__simple_.giris.resources
+C:\Users\kenan\Desktop\mail_sender (simple) - lastone\mail_sender (simple)\obj\Debug\mail_sender__simple_.moodle.resources
+C:\Users\kenan\Desktop\mail_sender (simple) - lastone\mail_sender (simple)\obj\Debug\mail_sender__simple_.Properties.Resources.resources
+C:\Users\kenan\Desktop\mail_sender (simple) - lastone\mail_sender (simple)\obj\Debug\mail_sender (simple).csproj.GenerateResource.cache
+C:\Users\kenan\Desktop\mail_sender (simple) - lastone\mail_sender (simple)\obj\Debug\mail_sender (simple).csproj.CoreCompileInputs.cache
+C:\Users\kenan\Desktop\mail_sender (simple) - lastone\mail_sender (simple)\obj\Debug\mail_sender (simple).csproj.CopyComplete
+C:\Users\kenan\Desktop\mail_sender (simple) - lastone\mail_sender (simple)\obj\Debug\mail_sender (simple).exe
+C:\Users\kenan\Desktop\mail_sender (simple) - lastone\mail_sender (simple)\obj\Debug\mail_sender (simple).pdb
+C:\Users\kenan\Desktop\17-155-960 (Mirkenan Kazimzade)\mail_sender (simple)\bin\Debug\mail_sender (simple).exe.config
+C:\Users\kenan\Desktop\17-155-960 (Mirkenan Kazimzade)\mail_sender (simple)\bin\Debug\mail_sender (simple).exe
+C:\Users\kenan\Desktop\17-155-960 (Mirkenan Kazimzade)\mail_sender (simple)\bin\Debug\mail_sender (simple).pdb
+C:\Users\kenan\Desktop\17-155-960 (Mirkenan Kazimzade)\mail_sender (simple)\bin\Debug\SQLite.Designer.dll
+C:\Users\kenan\Desktop\17-155-960 (Mirkenan Kazimzade)\mail_sender (simple)\bin\Debug\System.Data.SQLite.dll
+C:\Users\kenan\Desktop\17-155-960 (Mirkenan Kazimzade)\mail_sender (simple)\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\kenan\Desktop\17-155-960 (Mirkenan Kazimzade)\mail_sender (simple)\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\kenan\Desktop\17-155-960 (Mirkenan Kazimzade)\mail_sender (simple)\bin\Debug\EnvDTE.dll
+C:\Users\kenan\Desktop\17-155-960 (Mirkenan Kazimzade)\mail_sender (simple)\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\kenan\Desktop\17-155-960 (Mirkenan Kazimzade)\mail_sender (simple)\bin\Debug\stdole.dll
+C:\Users\kenan\Desktop\17-155-960 (Mirkenan Kazimzade)\mail_sender (simple)\bin\Debug\SQLite.Designer.pdb
+C:\Users\kenan\Desktop\17-155-960 (Mirkenan Kazimzade)\mail_sender (simple)\bin\Debug\System.Data.SQLite.pdb
+C:\Users\kenan\Desktop\17-155-960 (Mirkenan Kazimzade)\mail_sender (simple)\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\kenan\Desktop\17-155-960 (Mirkenan Kazimzade)\mail_sender (simple)\obj\Debug\mail_sender (simple).csprojResolveAssemblyReference.cache
+C:\Users\kenan\Desktop\17-155-960 (Mirkenan Kazimzade)\mail_sender (simple)\obj\Debug\mail_sender__simple_.acilis.resources
+C:\Users\kenan\Desktop\17-155-960 (Mirkenan Kazimzade)\mail_sender (simple)\obj\Debug\mail_sender__simple_.Form1.resources
+C:\Users\kenan\Desktop\17-155-960 (Mirkenan Kazimzade)\mail_sender (simple)\obj\Debug\mail_sender__simple_.giris.resources
+C:\Users\kenan\Desktop\17-155-960 (Mirkenan Kazimzade)\mail_sender (simple)\obj\Debug\mail_sender__simple_.moodle.resources
+C:\Users\kenan\Desktop\17-155-960 (Mirkenan Kazimzade)\mail_sender (simple)\obj\Debug\mail_sender__simple_.Properties.Resources.resources
+C:\Users\kenan\Desktop\17-155-960 (Mirkenan Kazimzade)\mail_sender (simple)\obj\Debug\mail_sender (simple).csproj.GenerateResource.cache
+C:\Users\kenan\Desktop\17-155-960 (Mirkenan Kazimzade)\mail_sender (simple)\obj\Debug\mail_sender (simple).csproj.CoreCompileInputs.cache
+C:\Users\kenan\Desktop\17-155-960 (Mirkenan Kazimzade)\mail_sender (simple)\obj\Debug\mail_sender (simple).csproj.CopyComplete
+C:\Users\kenan\Desktop\17-155-960 (Mirkenan Kazimzade)\mail_sender (simple)\obj\Debug\mail_sender (simple).exe
+C:\Users\kenan\Desktop\17-155-960 (Mirkenan Kazimzade)\mail_sender (simple)\obj\Debug\mail_sender (simple).pdb

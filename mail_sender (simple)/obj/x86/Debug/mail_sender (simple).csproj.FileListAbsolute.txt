@@ -1,0 +1,4 @@
+C:\Users\kenan\source\repos\mail_sender (simple)\mail_sender (simple)\obj\x86\Debug\mail_sender__simple_.Form1.resources
+C:\Users\kenan\source\repos\mail_sender (simple)\mail_sender (simple)\obj\x86\Debug\mail_sender__simple_.Properties.Resources.resources
+C:\Users\kenan\source\repos\mail_sender (simple)\mail_sender (simple)\obj\x86\Debug\mail_sender (simple).csproj.GenerateResource.cache
+C:\Users\kenan\source\repos\mail_sender (simple)\mail_sender (simple)\obj\x86\Debug\mail_sender (simple).csproj.CoreCompileInputs.cache
