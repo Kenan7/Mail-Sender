@@ -86,7 +86,7 @@ namespace mail_sender__simple_
 
             MailMessage msg = new MailMessage();
             SmtpClient client = new SmtpClient();
-            client.Credentials = new System.Net.NetworkCredential("moodlehabercisi@gmail.com", "Moodle53626");
+            client.Credentials = new System.Net.NetworkCredential("", "");
             client.Host = "smtp.gmail.com";
             client.Port = 587;
 
@@ -97,7 +97,7 @@ namespace mail_sender__simple_
                     foreach (string item in ogr.CheckedItems)
                     {
                         msg.To.Add(item);
-                        msg.From = new MailAddress("moodlehabercisi@gmail.com");
+                        msg.From = new MailAddress("");
                         msg.Subject = "Moodleda En Son Haber";
                         msg.Body = "En sonuncu haber:   " + haberr + Environment.NewLine + "Tarih:   " + tarihh + Environment.NewLine + "Link:   " + link;
                         client.EnableSsl = true;
@@ -115,7 +115,7 @@ namespace mail_sender__simple_
             {
                 string to = (tbox.Text).ToString();
                 msg.To.Add(to);
-                msg.From = new MailAddress("moodlehabercisi@gmail.com");
+                msg.From = new MailAddress("");
                 msg.Subject = "Moodleda En Son Haber";
                 msg.Body = "En sonuncu haber:   " + haberr + Environment.NewLine + "Tarih:   " + tarihh + Environment.NewLine + "Link:   " + link;
                 client.EnableSsl = true;
